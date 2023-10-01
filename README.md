@@ -43,7 +43,7 @@ Greetings! I'm Temur Eshtemirov, a passionate software developer with expertise 
 ## Contact
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
-- Email: ([temureshtemirov10@gmail.com])
+- Email: temureshtemirov10@gmail.com
 - LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/temur-eshtemirov](https://www.linkedin.com/in/temur-eshtemirov-40a439269/))
 
 I'm excited about the possibility of working together and contributing to meaningful projects. Thank you for reviewing my portfolio!
